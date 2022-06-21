@@ -10,5 +10,7 @@ I promised myself to be a Roboticist. One of Wiener's piercing insight which bro
 I simply *love* **Math and Physics**. In case you if are interested, check out **some of my notes [here](https://mosesnah-shared.github.io/notes_index.html)**. 
 I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 
-  <img align="center" alt="GIF" src="code.gif" width="500" height="320" />
+<p align="center">
+  <img alt="GIF" src="code.gif" width="500" height="320" />
+</p>
 
