@@ -37,6 +37,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
  </p>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## **My Github Stats (Just for Personal Use :innocent:) :**  
