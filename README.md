@@ -14,7 +14,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
   <img alt="GIF" src="code.gif" width="500" height="320" />
 </p>
 
-## **Languages and Tools:**  
+## **Languages and Tools (Still Actively Learning :sunglasses:) *  
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
