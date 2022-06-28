@@ -1,4 +1,4 @@
-## Hi there 👋
+## **Hi there** 👋
 
 Thank you for visiting my Github repo! My name is [**Moses**](https://mosesnah-shared.github.io/). 
 
@@ -14,7 +14,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
   <img alt="GIF" src="code.gif" width="500" height="320" />
 </p>
 
-## **Languages and Tools:**  
+## **Languages and Tools** (Still Actively Learning :sunglasses:) 
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -36,3 +36,17 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
  </p>
 
+## **My Activity** (To be Productive :sweat_smile:)
+
+<!--START_SECTION:waka-->
+
+```text
+Python       14 hrs 51 mins  ███████████████████████░░   91.52 %
+XML          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+```
+
+<!--END_SECTION:waka-->
+
+## **My Github Stats** (Just for Personal Use :innocent:):
+[![My GitHub's stats](https://github-readme-stats.vercel.app/api?username=mosesnah-shared)](https://github.com/anuraghazra/github-readme-stats)
