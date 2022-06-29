@@ -14,6 +14,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
   <img alt="GIF" src="code.gif" width="500" height="320" />
 </p>
 
+## **Research - Key Videos** 
+<p align="center">
+  <img alt="GIF" src="3D_whip.gif" width="500" height="500" />
+</p>
+
 ## **Languages and Tools** (Still Actively Learning :sunglasses:) 
 
 <p align="left"> 
