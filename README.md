@@ -46,10 +46,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Python       12 hrs 11 mins  █████████████████████▒░░░   85.92 %
-XML          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Python       8 hrs 47 mins   █████████████████████▓░░░   86.15 %
+XML          1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+RMarkdown    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
