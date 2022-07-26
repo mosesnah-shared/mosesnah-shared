@@ -46,12 +46,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Python        1 hr 17 mins    ██████████████████▒░░░░░░   73.22 %
-XML           14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Text          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Git Config    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Objective-C   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Other         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python        6 mins          ████████████▒░░░░░░░░░░░░   49.64 %
+Text          4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+Git Config    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+XML           1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
