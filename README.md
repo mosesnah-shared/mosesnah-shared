@@ -46,8 +46,8 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-XML        20 mins         ███████████████████░░░░░░   76.04 %
-Python     6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+XML        40 mins         ███████████████████░░░░░░   76.04 %
+Python     12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
 Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
