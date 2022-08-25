@@ -46,9 +46,9 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Python     4 hrs 19 mins   ██████████████████████░░░   87.59 %
-XML        33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Python     9 hrs 39 mins   ███████████████████████▒░   93.76 %
+XML        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
