@@ -46,10 +46,10 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Python       14 hrs 22 mins  █████████████████████▓░░░   87.22 %
-XML          1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Bash         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python       9 hrs 2 mins    ████████████████████▒░░░░   81.32 %
+XML          1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Bash         40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
