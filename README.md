@@ -46,12 +46,12 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 18 mins   ███████████████████░░░░░░   76.14 %
-XML          23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Bash         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       2 hrs 57 mins   ████████████████▒░░░░░░░░   65.83 %
+Makefile     47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+XML          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Bash         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
