@@ -46,8 +46,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          ███████████████████████░░   91.67 %
-MATLAB       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
