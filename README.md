@@ -46,7 +46,9 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Makefile   16 mins         ███████████████████▓░░░░░   78.35 %
+C++        3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+JSON       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
