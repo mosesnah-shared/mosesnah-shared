@@ -46,7 +46,8 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          █████████████████████████   100.00 %
+YAML         10 mins         ████████████████████████▒   97.81 %
+Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
