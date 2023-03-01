@@ -46,8 +46,12 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-YAML         10 mins         ████████████████████████▒   97.81 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Python       2 hrs 55 mins   ████████████████▓░░░░░░░░   67.03 %
+Git          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Text         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
