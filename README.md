@@ -46,12 +46,10 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-reStructuredText   6 hrs 7 mins    ██████████████████████▓░░   90.83 %
-Python             30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-CSS                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Git Config         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python             5 hrs 26 mins   ██████████████████████░░░   88.10 %
+reStructuredText   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Markdown           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Other              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
