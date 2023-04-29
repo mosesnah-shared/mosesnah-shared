@@ -46,9 +46,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-reStructuredText   27 mins         ████████████████████████░   96.59 %
-Python             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Other              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
