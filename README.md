@@ -46,11 +46,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-Python        2 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.57 %
-C++           1 hr 20 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-Makefile      59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-Bash          24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-C             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+C++           3 hrs 4 mins    ████████████████▒░░░░░░░░   65.41 %
+Makefile      59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+Python        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+C             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Bash          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
