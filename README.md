@@ -46,11 +46,9 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-C++           4 hrs 34 mins   ███████████████████▒░░░░░   77.46 %
-Makefile      1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-C             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C++        3 hrs 13 mins   ███████████████████████▓░   94.59 %
+C          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Makefile   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
