@@ -46,8 +46,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-C++   31 mins         █████████████████████████   99.75 %
-C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Markdown     18 mins         ███████████░░░░░░░░░░░░░░   44.12 %
+Other        10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+Makefile     9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
+C++          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Git Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->
