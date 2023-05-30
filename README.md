@@ -46,11 +46,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```text
-C++          1 hr 26 mins    █████████████░░░░░░░░░░░░   52.36 %
-Other        20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Markdown     19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-C            17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Makefile     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+C++          1 hr 26 mins    ████████████▓░░░░░░░░░░░░   51.19 %
+Markdown     21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Other        21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+C            17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Makefile     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 ```
 
 <!--END_SECTION:waka-->
