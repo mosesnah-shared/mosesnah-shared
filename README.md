@@ -45,12 +45,10 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 
 <!--START_SECTION:waka-->
 
-```text
-C++          1 hr 24 mins    ████████████████▒░░░░░░░░   65.21 %
-C            17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Other        10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Text         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+```txt
+Markdown   5 mins          ███████████████████▒░░░░░   76.99 %
+Other      0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Python     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
 ```
 
 <!--END_SECTION:waka-->
