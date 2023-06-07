@@ -46,9 +46,9 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          ███████████████████▒░░░░░   77.74 %
-Python     0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Python   0 secs          ██████████████▒░░░░░░░░░░   56.74 %
+BibTeX   0 secs          █████████░░░░░░░░░░░░░░░░   35.61 %
+Other    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
