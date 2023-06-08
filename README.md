@@ -46,9 +46,9 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          ██████████████▒░░░░░░░░░░   56.74 %
-BibTeX   0 secs          █████████░░░░░░░░░░░░░░░░   35.61 %
-Other    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+BibTeX             0 secs          ███████████████████▒░░░░░   77.08 %
+HTML               0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+reStructuredText   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 ```
 
 <!--END_SECTION:waka-->
