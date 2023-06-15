@@ -46,8 +46,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML               0 secs          █████████████░░░░░░░░░░░░   52.28 %
-reStructuredText   0 secs          ████████████░░░░░░░░░░░░░   47.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
