@@ -46,8 +46,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   24 mins         ███████████████████▓░░░░░   78.48 %
-Bash     6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
