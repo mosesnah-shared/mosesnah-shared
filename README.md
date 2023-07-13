@@ -46,7 +46,10 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          █████████████████████████   100.00 %
+Python       0 secs          █████████████▓░░░░░░░░░░░   54.51 %
+Bash         0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.28 %
+XML          0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
