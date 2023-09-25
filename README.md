@@ -46,7 +46,11 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       20 mins         ████████████▓░░░░░░░░░░░░   51.26 %
+Ezhil        14 mins         █████████░░░░░░░░░░░░░░░░   35.94 %
+Text         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Git Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
