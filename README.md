@@ -46,7 +46,10 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     0 secs          ███████████████████░░░░░░   75.46 %
+Text         0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
