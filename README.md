@@ -46,7 +46,9 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 6 mins     ███████████████████████▒░   93.99 %
+XML      3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
