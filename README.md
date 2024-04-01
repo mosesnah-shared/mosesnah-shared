@@ -46,8 +46,7 @@ I also do a lot of coding, and you can check all my codes here! Enjoy :grin:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     8 mins          ████████████████████████▓   99.28 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Markdown   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
